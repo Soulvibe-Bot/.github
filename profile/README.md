@@ -13,9 +13,9 @@ Best music bot for Discord. Supports Spotify, Soundcloud, Deezer and more
 
   
 
-| **[Website](https://soulvibe.xyz/)**	|
+| **[Website](https://soulvibe.my)**	|
 |-----------------------------------------------------------------------------	|
   
-| **[Invite](https://soulvibe.xyz/invite)**	|
+| **[Invite](https://soulvibe.my/invite/soulvibe)**	|
 |-----------------------------------------------------------------------------	|
 </div>
